@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WebApplication<springboot-data-entry>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.adonai.dbupdate.WebApplication",
+            "projectName": "springboot-data-entry",
+            "args": ""
+        }
+    ]
+}
